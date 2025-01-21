@@ -1,9 +1,10 @@
 import ctypes
 # operations:
 # creating list
-# len function
+# len function 
+# printing
 # append
-# fetch
+# fetching using index
 # pop 
 # clear
 # finding
